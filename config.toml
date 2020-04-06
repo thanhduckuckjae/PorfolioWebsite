@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = ""
 title = "DUC TRANG COMPANY LIMITED"
 languageCode = "en-us"
 paginate = "10" # Number of posts per page
